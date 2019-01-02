@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDeadLock", "Win
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncVoid", "AsyncVoid\AsyncVoid.csproj", "{6C91B444-082A-4776-B5F6-D3FEA261F516}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{583276EC-74CC-45BB-87E5-41C7C4F5BE47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6C91B444-082A-4776-B5F6-D3FEA261F516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C91B444-082A-4776-B5F6-D3FEA261F516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C91B444-082A-4776-B5F6-D3FEA261F516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583276EC-74CC-45BB-87E5-41C7C4F5BE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583276EC-74CC-45BB-87E5-41C7C4F5BE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583276EC-74CC-45BB-87E5-41C7C4F5BE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583276EC-74CC-45BB-87E5-41C7C4F5BE47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
