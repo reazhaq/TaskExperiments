@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncVoid", "AsyncVoid\Asyn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{583276EC-74CC-45BB-87E5-41C7C4F5BE47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddArrayElementsUsingThreadLocal", "AddArrayElementsUsingThreadLocal\AddArrayElementsUsingThreadLocal.csproj", "{533887BC-6C1B-44A8-9266-9D7A7AC86EF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{583276EC-74CC-45BB-87E5-41C7C4F5BE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{583276EC-74CC-45BB-87E5-41C7C4F5BE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{583276EC-74CC-45BB-87E5-41C7C4F5BE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533887BC-6C1B-44A8-9266-9D7A7AC86EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533887BC-6C1B-44A8-9266-9D7A7AC86EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533887BC-6C1B-44A8-9266-9D7A7AC86EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533887BC-6C1B-44A8-9266-9D7A7AC86EF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
